@@ -1,0 +1,5 @@
+4
+true
+(\neg false)
+(\rightarrow 3a (\wedge 1x 2y))
+(\vee 1a)

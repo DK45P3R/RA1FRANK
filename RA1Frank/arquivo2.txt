@@ -1,0 +1,7 @@
+6
+(\wedge 1a 2b)
+(\neg (\vee 1x 3y))
+false
+(\leftrightarrow true false)
+invalid_token 
+(\neg (\neg 0z))
